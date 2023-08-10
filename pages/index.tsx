@@ -97,9 +97,10 @@ const Home = (props: props) => {
             <Emoji symbol="🇵🇹" />. Antes de tudo, um artista, gosto de criar coisas incríveis!
           </p>
           <br />
-          <p>Tenho Bacharelado em Sistemas de Informação pela Universidade Federal do Piauí (UFPI) com especialização em Desenvolvimento de Games pelo SENAC. Possuio ainda Bacharelado em Design de Animação pela  UNIP e Tecnologia em Game Design pela UNINP. Amo Tecnologia e Games!</p>
+          <p>Tenho Bacharelado em Sistemas de Informação pela Universidade Federal do Piauí (UFPI) com especialização em Desenvolvimento de Games pelo SENAC. Possuo
+             ainda Bacharelado em Design de Animação pela  UNIP e Tecnologia em Game Design pela UNINP. Amo Tecnologia e Games!</p>
           <br />
-          <p>Em meu tempo livre amo programaer, jogar vídeo game, consumir entretenimento geek/nerd, tocar violão e piano e andar de skate. </p>
+          <p>Em meu tempo livre amo programar, jogar vídeo game, consumir entretenimento geek/nerd, tocar violão e piano e andar de skate. </p>
           <br />
           <p>Como mencionei, sou um artista! Além de desenvolver jogos, escrevo obras de ficção fantástica! Gosto de criar coisas incríveis. Também atuo e/ou já atuei como animador 2d, roteirista, diretor e dramaturgo.</p>
         </div>
