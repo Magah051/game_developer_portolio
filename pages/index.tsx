@@ -94,16 +94,15 @@ const Home = (props: props) => {
               José Magalhães
             </strong>
             , tenho {myAge} anos e sou Brasileiro.{" "}
-            <Emoji symbol="🇵🇹" />. Antes de tudo, um artista, gosto de criar coisas incríveis!
+            <Emoji symbol="🇵🇹" /></p>
+          <br />
+          <p>José Magalhães nasceu na cidade de Piracuruca-PI. Em 2007 começa a estudar música, tendo como instrumentos preferidos violão e piano. Em 2008, começa a estudar informática tendo como ênfase, manutenção de hardwares e redes. Em 2011, inicia seus estudos em Letras Inglês pela Universidade Estadual do Piauí, se especializando mais tarde em Literatura Fantástica em diversas culturas. 
           </p>
+          <p>Em 2017, estuda Sistemas de Informação pela Universidade Federal do Piauí, onde especializa-se em diversas linguagens de programação, sendo elas as mais usadas Python e PHP. Desde 2018, vem atuando com tecnologia e educação,
+sendo professor de todos os níveis desde a Educação Básica à Pós- Graduação, e nas modalidades presencial, hibrido e 100% online.</p>
           <br />
-          <p>Tenho Bacharelado em Sistemas de Informação pela Universidade Federal do Piauí (UFPI) com especialização em Desenvolvimento de Games pelo SENAC. Possuo
-             ainda Bacharelado em Design de Animação pela  UNIP e Tecnologia em Game Design pela UNINP. Amo Tecnologia e Games!</p>
-          <br />
-          <p>Em meu tempo livre amo programar, jogar vídeo game, consumir entretenimento geek/nerd, tocar violão e piano e andar de skate. </p>
-          <br />
-          <p>Como mencionei, sou um artista! Além de desenvolver jogos, escrevo obras de ficção fantástica! Gosto de criar coisas incríveis. Também atuo e/ou já atuei como animador 2d, roteirista, diretor e dramaturgo.</p>
-        </div>
+          <p>Atualmente atua como Professor de Programação, Consultor de Tecnologia e Escritor de Materiais Didáticos. Como hobby é escritor de literatura fantástica, músico e skatista.</p>
+          </div>
       </Section>
 
       {/* <Section title={"Skills"}>
