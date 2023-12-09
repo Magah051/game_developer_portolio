@@ -98,6 +98,7 @@ const Home = (props: props) => {
           <br />
           <p>José Magalhães nasceu na cidade de Piracuruca-PI. Em 2007 começa a estudar música, tendo como instrumentos preferidos violão e piano. Em 2008, começa a estudar informática tendo como ênfase, manutenção de hardwares e redes. Em 2011, inicia seus estudos em Letras Inglês pela Universidade Estadual do Piauí, se especializando mais tarde em Literatura Fantástica em diversas culturas. 
           </p>
+          <br/>
           <p>Em 2017, estuda Sistemas de Informação pela Universidade Federal do Piauí, onde especializa-se em diversas linguagens de programação, sendo elas as mais usadas Python e PHP. Desde 2018, vem atuando com tecnologia e educação,
 sendo professor de todos os níveis desde a Educação Básica à Pós- Graduação, e nas modalidades presencial, hibrido e 100% online.</p>
           <br />

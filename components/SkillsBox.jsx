@@ -6,7 +6,7 @@ import asepriteIcon from "../public/images/icons/aseprite.png";
 import htmlIcon from "../public/images/icons/html.svg";
 import cssIcon from "../public/images/icons/css.svg";
 import javascriptIcon from "../public/images/icons/javascript.svg";
-import pythonIcon from "../public/images/icons/python.svg";
+import typescriptIcon from "../public/images/icons/typescript.png";
 import reactIcon from "../public/images/icons/react.svg";
 import vueIcon from "../public/images/icons/vue.png";
 import angularIcon from "../public/images/icons/angular.png";
@@ -45,11 +45,14 @@ const SkillsBox = (props) => {
             name="JavaScript"
             url="//developer.mozilla.org/en-US/docs/Web/JavaScript"
           />
+          <Skill
+            icon={typescriptIcon}
+            name="TypeScript"
+            url="https://www.typescriptlang.org/"
+          />
           <Skill icon={reactIcon} name="React" url="//reactjs.org/" />
           <Skill icon={vueIcon} name="Vue" url="https://vuejs.org/" />
           <Skill icon={angularIcon} name="Angular" url="https://angular.io/" />
-          <hr></hr>
-          <Skill icon={pythonIcon} name="Python" url="//www.python.org/" />
         </div>
         {/* <p className="font-mono text-2xl">Coming Soon</p> */}
       </div>
